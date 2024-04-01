@@ -35,7 +35,7 @@ def send_email():
     smtp_server = "smtp.gmail.com"
     smtp_port = 587
     smtp_username = "thestorycreator12@gmail.com"
-    smtp_password = "insert password"
+    smtp_password = "hpmvubpoqlelcdks"
     # Establish a connection to the SMTP server
     server = smtplib.SMTP(smtp_server, smtp_port)
     server.starttls()
